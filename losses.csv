@@ -1,0 +1,7 @@
+losses_g,losses_d
+"tensor(10.5290, grad_fn=<BinaryCrossEntropyBackward0>)","tensor(0.0009, grad_fn=<AddBackward0>)"
+"tensor(9.9135, grad_fn=<BinaryCrossEntropyBackward0>)","tensor(0.0004, grad_fn=<AddBackward0>)"
+"tensor(6.4064, grad_fn=<BinaryCrossEntropyBackward0>)","tensor(0.1373, grad_fn=<AddBackward0>)"
+"tensor(8.4425, grad_fn=<BinaryCrossEntropyBackward0>)","tensor(0.0300, grad_fn=<AddBackward0>)"
+"tensor(9.4076, grad_fn=<BinaryCrossEntropyBackward0>)","tensor(0.0082, grad_fn=<AddBackward0>)"
+"tensor(8.2633, grad_fn=<BinaryCrossEntropyBackward0>)","tensor(0.0096, grad_fn=<AddBackward0>)"
